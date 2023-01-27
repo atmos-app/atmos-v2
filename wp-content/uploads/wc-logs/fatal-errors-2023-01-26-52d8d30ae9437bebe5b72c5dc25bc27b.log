@@ -1,0 +1,6 @@
+2023-01-26T10:32:53+00:00 CRITICAL Cannot redeclare get_rs_plugin_url() (previously declared in C:\xampp\htdocs\atmosapp\wp-content\plugins\revslider\revslider.php:258) in C:\xampp\htdocs\atmosapp\wp-content\plugins\slider-revolution\revslider.php on line 259
+
+2023-01-26T10:32:59+00:00 CRITICAL Cannot redeclare get_rs_plugin_url() (previously declared in C:\xampp\htdocs\atmosapp\wp-content\plugins\revslider\revslider.php:258) in C:\xampp\htdocs\atmosapp\wp-content\plugins\slider-revolution\revslider.php on line 259
+
+2023-01-26T10:32:59+00:00 CRITICAL Cannot redeclare get_rs_plugin_url() (previously declared in C:\xampp\htdocs\atmosapp\wp-content\plugins\revslider\revslider.php:258) in C:\xampp\htdocs\atmosapp\wp-content\plugins\slider-revolution\revslider.php on line 259
+
